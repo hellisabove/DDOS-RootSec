@@ -4,3 +4,4 @@ proxify==1.0.2
 requests==2.21.0
 urllib3>=1.23
 fake-useragent==0.1.11
+certifi>=2022.12.7 # not directly required, pinned by Snyk to avoid a vulnerability
